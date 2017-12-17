@@ -39,7 +39,7 @@
             "type": "file",
             "source": "file/Erick",
             "destination": "/opt/Erick",
-            "pause_before": "5s"
+            "pause_before": "6s"
        }
        
 ]
